@@ -9,5 +9,6 @@
 <body>
     <h1>Coba Git Lokal</h1>
     <p>Paragraf</p>
+    <p>Paragraf Baru</p>
 </body>
 </html>
